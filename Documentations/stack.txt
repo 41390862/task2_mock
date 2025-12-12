@@ -1,0 +1,13 @@
+#############
+### Stack ###
+#############
+
+Back-end
+	Python + Flask
+
+Front-end
+	HTML + CSS
+	JavaScript + Spring Perallax
+
+Database
+	PostgreSQL
